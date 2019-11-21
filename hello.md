@@ -1,3 +1,2 @@
-12321321321321q'we'w'q'e'q'wqwewqeqw
+ssh-keygen -t rsa
 
-asdsadssadasdsadadssadwqda
